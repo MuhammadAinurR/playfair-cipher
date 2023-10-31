@@ -31,3 +31,7 @@ to edit plain_text and the key, you can open main.py
 # Conclusion
 
 The Playfair cipher is a simple but effective substitution cipher. It is easy to implement and use, and it can be used to encrypt and decrypt messages of any length.
+
+# Sample output
+![img_sample](https://github.com/MuhammadAinurR/playfair-cipher/blob/main/output/output1.png)
+![img_sample2](https://github.com/MuhammadAinurR/playfair-cipher/blob/main/output/output2.png)
